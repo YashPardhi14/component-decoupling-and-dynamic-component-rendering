@@ -1,0 +1,52 @@
+   [
+  {
+    "name": "card1",
+    "type": "DATA-CARD",
+    "targetURL": "https://data.worldbank.org/media/hp/hp-diet-5.png",
+    "targetText": null
+  },
+  {
+    "name": "card2",
+    "type": "IMAGE-CARD",
+    "targetURL": "https://www.visa.co.in/dam/VCOM/regional/ap/india/global-elements/images/in-visa-gold-card-498x280.png",
+    "targetText": null
+  },
+  {
+    "name": "card3",
+    "type": "TEXT-CARD",
+    "targetURL": null,
+    "targetText": "Singles, spread the love this Valentine's Day!  Volunteer at a cause you care about, organize a singles' game night, or simply reach out to loved ones with heartfelt messages. Remember, your kindness and care can touch countless lives. Today, choose to be the love you wish to receive. Be the reason someone smiles!"
+  },
+  
+  {
+    "name": "card4",
+    "type": "IMAGE-CARD",
+    "targetURL": "https://i.etsystatic.com/15613353/r/il/f9d835/3607233764/il_fullxfull.3607233764_qlzv.jpg",
+    "targetText": null
+  },
+  {
+    "name": "card5",
+    "type": "TEXT-CARD",
+    "targetURL": null,
+    "targetText": "Forget the cheesy cards, singles!  This Valentine's Day, celebrate your amazing independence. Dive into that hobby you've been obsessing over, explore hidden gems in your city, or embark on a solo adventure. Embrace the freedom to write your own love story, one chapter at a time. Remember, you're the hero of your journey! ️"
+  },
+  {
+    "name": "card6",
+    "type": "DATA-CARD",
+    "targetURL": "https://cdn.britannica.com/31/4431-004-B067AEDE/bar-graph-individuals-status.jpg",
+    "targetText": null
+  },
+  {
+    "name": "card7",
+    "type": "IMAGE-CARD",
+    "targetURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGiD_hSK24D_9s54kwCJbedZJYpEThUu8dLg&usqp=CAU",
+    "targetText": null
+  },
+  {
+    "name": "card8",
+    "type": "TEXT-CARD",
+    "targetURL": null,
+    "targetText": "Hey singles! Don't let the love buzz of Valentine's Day dim your shine. Celebrate love in its purest form - self-love! Treat yourself, pursue your passions, connect with amazing people, and remember, your journey is unique and valuable. Be grateful for the love you share, embrace your independence, and know that love will find you in its own beautiful way. Hold your head high, singles - you're worthy, strong, and ready to rock this day! ❤️✨"
+  }
+
+]
